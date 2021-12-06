@@ -1,6 +1,5 @@
-[![Build Status](https://img.shields.io/travis/alinemorelli/react-gtm/master.svg?style=flat-square)](https://travis-ci.org/alinemorelli/react-gtm)
-[![npm version](https://img.shields.io/npm/v/react-gtm-module.svg?style=flat-square)](https://www.npmjs.com/package/react-gtm-module)
-[![npm downloads](https://img.shields.io/npm/dm/react-gtm-module.svg?style=flat-square)](https://www.npmjs.com/package/react-gtm-module)
+[![npm version](https://img.shields.io/npm/v/react-gtm-module-bc.svg?style=flat-square)](https://www.npmjs.com/package/react-gtm-module-bc)
+[![npm downloads](https://img.shields.io/npm/dm/react-gtm-module-bc.svg?style=flat-square)](https://www.npmjs.com/package/react-gtm-module-bc)
 
 # react-gtm-module
 ### React Google Tag Manager Module
