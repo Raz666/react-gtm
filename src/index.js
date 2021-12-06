@@ -1,3 +1,3 @@
-import TagManager from './TagManager'
+import TagManager from "./TagManager";
 
-module.exports = TagManager
+module.exports = TagManager;
